@@ -2,7 +2,7 @@ Git User's Repository List Search React/Redux Track Project - CesarMsk
 
 Tecnologias/Frameworks:
 
-- Node v12.14.0
+- Node v12.18.2
 - React
 - Redux
 - Visual Studio Code
