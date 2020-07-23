@@ -1,13 +1,14 @@
 Git User's Repository List Search React/Redux Track Project - CesarMsk
-Getting Started
+
 Tecnologias/Frameworks:
 
-Node v12.14.0
-React
-Redux
-Visual Studio Code
-Setup
+- Node v12.14.0
+- React
+- Redux
+- Visual Studio Code
 
-git clone https://github.com/cesarmsk/Git-Users.git
-npm install
-npm start
+
+Setup
+- git clone https://github.com/cesarmsk/Git-Users.git
+- npm install
+- npm start
