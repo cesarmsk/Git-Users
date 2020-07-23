@@ -8,6 +8,6 @@ Redux
 Visual Studio Code
 Setup
 
-git clone https://github.com/cesarmsk/Git-Users-Dev.git
+git clone https://github.com/cesarmsk/Git-Users.git
 npm install
 npm start
